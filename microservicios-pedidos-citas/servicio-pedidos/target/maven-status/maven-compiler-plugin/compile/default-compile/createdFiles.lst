@@ -1,0 +1,5 @@
+com\petcare\serviciopedidos\controller\PedidoController.class
+com\petcare\serviciopedidos\dto\PedidoDTO.class
+com\petcare\serviciopedidos\ServicioPedidosApplication.class
+com\petcare\serviciopedidos\model\Pedido.class
+com\petcare\serviciopedidos\service\PedidoService.class
